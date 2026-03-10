@@ -33,7 +33,7 @@ export function SplashScreen({ onComplete }: SplashScreenProps) {
       </motion.div>
       
       <div className="absolute bottom-12 text-zinc-600 font-bold text-sm tracking-widest uppercase">
-        Powered by AI Studio
+        Powered by CS Studio
       </div>
     </div>
   );
